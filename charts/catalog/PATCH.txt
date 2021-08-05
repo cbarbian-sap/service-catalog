@@ -1,0 +1,2 @@
+This is a patched version of the original catalog helm chart to avoid webhook ssl ca/certificate recreation on every helm upgrade.
+See: https://github.com/cbarbian-sap/service-catalog.
